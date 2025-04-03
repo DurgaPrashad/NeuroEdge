@@ -1,6 +1,7 @@
 # NeuroEdge
 
 NeuroEdge is a futuristic, AI-driven IoT and geospatial intelligence platform that processes real-time sensor data, AI analytics, and smart automation to monitor and optimize operations across industries like smart cities, logistics, healthcare, and agriculture.
+![image](https://github.com/user-attachments/assets/6cc86da2-4764-4054-b93c-33dd36abdec1)
 
 ## Features
 - **Real-time Sensor Data Processing**: Efficiently collects and analyzes IoT data streams.
@@ -8,6 +9,7 @@ NeuroEdge is a futuristic, AI-driven IoT and geospatial intelligence platform th
 - **Smart Automation**: Automates decision-making and optimizes workflows.
 - **Geospatial Intelligence**: Leverages GIS to provide location-based analytics.
 - **Industry Applications**: Applicable to smart cities, logistics, healthcare, and agriculture.
+![image](https://github.com/user-attachments/assets/0f5086a8-78a2-43e7-8fa6-eb8374b24825)
 
 ## Project Structure
 ```
@@ -33,6 +35,7 @@ NeuroEdge/
 Ensure you have the following installed:
 - **Node.js** (Latest LTS recommended)
 - **PNPM** (Preferred package manager)
+![image](https://github.com/user-attachments/assets/56a03f3e-6434-4bdd-9794-3fea83336917)
 
 ### Setup
 1. Clone the repository:
@@ -56,6 +59,7 @@ To build and deploy the project:
 pnpm build
 pnpm start
 ```
+![Uploading image.png…]()
 
 ## Contributing
 1. Fork the repository.
