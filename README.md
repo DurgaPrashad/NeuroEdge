@@ -59,7 +59,8 @@ To build and deploy the project:
 pnpm build
 pnpm start
 ```
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/828f565b-8f3e-4c14-898e-579ce6520951)
+
 
 ## Contributing
 1. Fork the repository.
@@ -68,9 +69,8 @@ pnpm start
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Contact
-For inquiries and collaborations, reach out at [your-email@example.com](mailto:your-email@example.com).
+For inquiries and collaborations, reach out at durgaprashadreddy9966@gmail.com
 
