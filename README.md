@@ -1,4 +1,5 @@
 # NeuroEdge
+![image](https://github.com/user-attachments/assets/ec0a4968-8521-435d-91cf-030780815b12)
 
 NeuroEdge is a futuristic, AI-driven IoT and geospatial intelligence platform that processes real-time sensor data, AI analytics, and smart automation to monitor and optimize operations across industries like smart cities, logistics, healthcare, and agriculture.
 ![image](https://github.com/user-attachments/assets/6cc86da2-4764-4054-b93c-33dd36abdec1)
