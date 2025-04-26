@@ -44,27 +44,46 @@
     "date-fns": "4.1.0",
     "embla-carousel-react": "8.5.1",
     "input-otp": "1.4.1",
+<<<<<<< HEAD
     "leaflet": "latest",
+=======
+>>>>>>> d6247b412074b0b441e7a2bbc9ec1772245fe2b1
     "lucide-react": "^0.454.0",
     "next": "15.1.0",
     "next-themes": "latest",
     "react": "^19",
     "react-day-picker": "8.10.1",
     "react-dom": "^19",
+<<<<<<< HEAD
     "react-helmet": "latest",
     "react-hook-form": "^7.54.1",
     "react-resizable-panels": "^2.1.7",
     "react-router-dom": "latest",
+=======
+    "react-hook-form": "^7.54.1",
+    "react-resizable-panels": "^2.1.7",
+>>>>>>> d6247b412074b0b441e7a2bbc9ec1772245fe2b1
     "recharts": "latest",
     "sonner": "^1.7.1",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^0.9.6",
+<<<<<<< HEAD
     "zod": "^3.24.1"
   },
   "devDependencies": {
     "@types/node": "^22",
     "@types/react": "^19.1.2",
+=======
+    "zod": "^3.24.1",
+    "leaflet": "latest",
+    "react-helmet": "latest",
+    "react-router-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+>>>>>>> d6247b412074b0b441e7a2bbc9ec1772245fe2b1
     "@types/react-dom": "^19",
     "postcss": "^8",
     "tailwindcss": "^3.4.17",

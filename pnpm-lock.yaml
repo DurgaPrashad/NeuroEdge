@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 lockfileVersion: '9.0'
+=======
+lockfileVersion: '6.0'
+>>>>>>> d6247b412074b0b441e7a2bbc9ec1772245fe2b1
 
 settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
+<<<<<<< HEAD
 
 importers:
 
@@ -3597,3 +3602,5 @@ snapshots:
   yaml@2.7.1: {}
 
   zod@3.24.3: {}
+=======
+>>>>>>> d6247b412074b0b441e7a2bbc9ec1772245fe2b1

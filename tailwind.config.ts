@@ -1,5 +1,9 @@
 import type { Config } from "tailwindcss"
+<<<<<<< HEAD
 import animate from "tailwindcss-animate"
+=======
+const shadcnConfig = require("./node_modules/ui/tailwind.config.js")
+>>>>>>> d6247b412074b0b441e7a2bbc9ec1772245fe2b1
 
 const config: Config = {
   darkMode: ["class"],
@@ -45,12 +49,38 @@ const config: Config = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+<<<<<<< HEAD
         status: {
           online: "#10B981",
           warning: "#F59E0B",
           offline: "#EF4444",
           neutral: "#6B7280",
         },
+=======
+        // Primary brand colors
+        // primary: {
+        //   DEFAULT: '#3B82F6', // Blue
+        //   foreground: '#FFFFFF',
+        // },
+        // // Dark mode background colors
+        // background: {
+        //   DEFAULT: '#FFFFFF',
+        //   dark: '#0F172A', // Dark navy blue
+        // },
+        // // Card and component backgrounds
+        // card: {
+        //   DEFAULT: '#FFFFFF',
+        //   dark: '#1E293B', // Slightly lighter navy
+        // },
+        // // Status colors
+        status: {
+          online: "#10B981", // Green
+          warning: "#F59E0B", // Amber
+          offline: "#EF4444", // Red
+          neutral: "#6B7280", // Gray
+        },
+        // Chart colors
+>>>>>>> d6247b412074b0b441e7a2bbc9ec1772245fe2b1
         chart: {
           blue: "#3B82F6",
           purple: "#8B5CF6",
@@ -77,7 +107,15 @@ const config: Config = {
       },
     },
   },
+<<<<<<< HEAD
   plugins: [animate],
 }
 
 export default config
+=======
+  plugins: [require("tailwindcss-animate")],
+}
+
+export default config
+
+>>>>>>> d6247b412074b0b441e7a2bbc9ec1772245fe2b1
